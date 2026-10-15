@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "data-transform": {
+      "command": "node",
+      "args": ["/你的绝对路径/data-transform-mcp/index.js"]
+    }
+  }
+}
