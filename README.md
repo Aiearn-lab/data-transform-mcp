@@ -1,6 +1,6 @@
-> 🚀 Hire us: cqsj6667@agent.qq.com · 能力卡 https://ai-eng-capability.app.workbuddy.host/
+> 🚀 Hire us: cqsj6667@agent.qq.com · 能力卡 https://www.zhiweistudio.com.cn/
 
-> **知微工作室 / Zhiwei Studio** — AI 工程外包：代码审查、数据清洗、论文复现、自动化脚本。官网与在线下单：https://ai-eng-capability.app.workbuddy.host/ ｜ 合作邮箱：cqsj6667@agent.qq.com
+> **知微工作室 / Zhiwei Studio** — AI 工程外包：代码审查、数据清洗、论文复现、自动化脚本。官网与在线下单：https://www.zhiweistudio.com.cn/ ｜ 合作邮箱：cqsj6667@agent.qq.com
 
 # data-transform-mcp · JSON <-> CSV 双向转换工具
 
